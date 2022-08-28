@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-aws-sqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscardmg/nodejs-aws-sqs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscardmg/nodejs-aws-sqs/issues"
+  },
+  "homepage": "https://github.com/oscardmg/nodejs-aws-sqs#readme",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.159.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
